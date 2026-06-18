@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="healthcare_blue">#2563EB</color>
+    <color name="healthcare_blue_dark">#1A56DB</color>
+    <color name="emerald_green">#10B981</color>
+    <color name="off_white">#F8F9FA</color>
+    <color name="dark_slate">#1F2937</color>
+    <color name="soft_grey">#6B7280</color>
+    <color name="strikethrough_red">#EF4444</color>
+    <color name="generic_blue_tint">#EFF6FF</color>
+    <color name="white">#FFFFFF</color>
+</resources>
