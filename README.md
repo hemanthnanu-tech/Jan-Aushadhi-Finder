@@ -15,7 +15,11 @@
 
 ## 📸 Screenshots
 *(Note: You can add your app screenshots here later by uploading them to your repository and linking them)*
-> `![Home Screen](link_to_image_1)` | `![Search Results](link_to_image_2)`
+> <img width="720" height="1600" alt="WhatsApp Image 2026-06-18 at 7 18 07 PM (2)" src="https://github.com/user-attachments/assets/eb56590c-5479-479d-9d17-c03c86b6c81d" /> |
+<img width="720" height="1600" alt="WhatsApp Image 2026-06-18 at 7 18 06 PM" src="https://github.com/user-attachments/assets/addb53ec-2ced-49cd-bea4-bbeb330282a8" /> |
+<img width="720" height="1600" alt="WhatsApp Image 2026-06-18 at 7 18 07 PM" src="https://github.com/user-attachments/assets/6b555a47-7f61-4ae8-abfc-7ff86408847b" /> |
+<img width="720" height="1600" alt="WhatsApp Image 2026-06-18 at 7 18 07 PM (1)" src="https://github.com/user-attachments/assets/7c6cf46b-948d-4f44-88d9-1f6196bd0eb2" /> |
+
 
 ## 💻 Tech Stack
 * **Platform:** Android
